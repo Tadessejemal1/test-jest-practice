@@ -1,0 +1,15 @@
+{
+  "name": "test-jest-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stringLength.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Tadesse jemal",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
